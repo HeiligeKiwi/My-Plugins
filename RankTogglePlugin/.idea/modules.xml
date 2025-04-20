@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/playerdataplugin.iml" filepath="$PROJECT_DIR$/playerdataplugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/de.heiligekiwi.ranktoggle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/de.heiligekiwi.ranktoggle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gradle.ranktoggle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/gradle.ranktoggle.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ranktoggle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ranktoggle.main.iml" />
     </modules>
   </component>
 </project>

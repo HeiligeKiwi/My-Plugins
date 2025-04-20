@@ -1,28 +1,5 @@
-# Config für PlayerDataPlugin
-
-# 9. Automatisches Löschen alter Daten deaktivieren?
-disable_data_cleanup: false
-
-# 6. Intervall für das Aktualisieren von Spieler-Geldständen (in Minuten)
-money_update_interval: 6
-
-# 9. Anzahl der Tage, nach denen alte Daten gelöscht werden sollen
-data_cleanup_days_threshold: 6
-
-# 8. Banner beim Start anzeigen?
-show_banner_on_startup: true
-
-# 2. Verschlüsselung aktivieren/deaktivieren
-enable_encryption: true
-
-# 4. IP-Änderungsbenachrichtigungen aktivieren?
-notify_ip_changes: true
-
-# 5. Whitelist-Synchronisation aktivieren?
-enable_whitelist_sync: true
-
-# Beispiel für eine Liste von erlaubten Befehlen (optional)
-allowed_commands:
-  - playerip
-  - note
-  - pdp
+roles:
+  vip:
+    permission: group.vip
+    material: GOLD_INGOT
+    display_name: "VIP Status"

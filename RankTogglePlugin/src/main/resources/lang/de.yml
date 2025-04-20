@@ -1,0 +1,9 @@
+messages:
+  usage: "Verwendung: /ranktoggle <rolle> [add|remove|list] [spieler]"
+  role_not_found: "Rolle nicht gefunden!"
+  must_be_player: "Du musst ein Spieler sein, um Rollen umzuschalten!"
+  added_role: "Rolle {role} hinzugefügt"
+  removed_role: "Rolle {role} entfernt"
+  unknown_subcommand: "Unbekanntes Unterkommando!"
+  player_not_found: "Spieler nicht gefunden!"
+  listing_roles: "Liste der Spieler mit der Rolle {role}:"

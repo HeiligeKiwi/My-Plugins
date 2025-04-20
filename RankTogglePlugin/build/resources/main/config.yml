@@ -1,0 +1,13 @@
+roles:
+  admin:
+    permission: admin
+    description: "Administrator Rolle mit voller Zugriffsberechtigung"
+  moderator:
+    permission: moderator
+    description: "Moderator Rolle mit moderativen Berechtigungen"
+  builder:
+    permission: builder
+    description: "Builder Rolle mit Bau-Berechtigungen"
+  member:
+    permission: member
+    description: "Standard Mitgliedsrolle"
